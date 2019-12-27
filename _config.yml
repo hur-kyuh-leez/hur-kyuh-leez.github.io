@@ -111,17 +111,17 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: hur-kyuh-leez.github.io # the Disqus shortname for the site
+    shortname: # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID: "7cc841580bfe59f3a2f8" # GitHub Application Client ID
-    clientSecret: "5671bdc99e5454831e78223a7cb4f96ad038566a" # GitHub Application Client Secret
-    repository: "hur-kyuh-leez.github.io" # GitHub repo
-    owner: "hur-kyuh-leez" # GitHub repo owner
+    clientID: 7cc841580bfe59f3a2f8 # GitHub Application Client ID
+    clientSecret: 5671bdc99e5454831e78223a7cb4f96ad038566a # GitHub Application Client Secret
+    repository: hur-kyuh-leez.github.io # GitHub repo
+    owner: hur-kyuh-leez # GitHub repo owner
     admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - "hur-kyuh-leez" # - your GitHub Id
+      - hur-kyuh-leez # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
