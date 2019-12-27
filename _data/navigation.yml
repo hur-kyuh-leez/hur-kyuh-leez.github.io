@@ -6,6 +6,13 @@ header:
     url   : /
 
   - titles:
+      en      : &EN       Old Blog
+      ko      : &KO       벨로그
+      ko-KR   : *KO
+    url   : https://velog.io/@hur-kyuh-leez
+  
+
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
