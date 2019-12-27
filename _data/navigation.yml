@@ -1,7 +1,10 @@
 header:
   - titles:
-      en      : &EN       Posts
-    url: /Posts
+      en      : &EN       Blog
+      ko      : &KO       블로그
+      ko-KR   : *KO
+    url   : /
+
   - titles:
       # @start locale config
       en      : &EN       Archive
