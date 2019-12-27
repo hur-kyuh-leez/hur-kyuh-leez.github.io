@@ -1,5 +1,8 @@
 header:
   - titles:
+      en      : &EN       Posts
+    url: /Posts
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
@@ -47,4 +50,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html
+    url: /aboutMe
