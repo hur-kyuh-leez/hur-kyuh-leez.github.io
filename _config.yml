@@ -31,7 +31,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type: # "person" (default), "organization"
   name: hyukkyulee
-  url:
+  url: https://velog.io/@hur-kyuh-leez
   avatar: # path or url of avatar image (square)
   bio: I am an amazing person.
   email: hyukkyulee@alumni.emory.edu
